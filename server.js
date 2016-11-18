@@ -58,3 +58,4 @@ if ((cluster.isMaster) &&
 }
 
 module.exports = deferred.promise
+
